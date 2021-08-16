@@ -215,10 +215,10 @@ header a:hover{
     box-shadow: -0.6em 0.6em 0.8em #F2F2F2;
 }
 .photo:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .photo:active{
-    transform: scale(1.2);   
+    transform: scale(1.1);   
 }
 .img-popularity{
     width: 126px;
@@ -273,10 +273,10 @@ header a:hover{
     flex-direction: column;
 }
 .photo-hebergements:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .photo-hebergements:active{
-    transform: scale(1.2);   
+    transform: scale(1.1);   
 }
 .img-hebergements{
     height: 100%;
@@ -327,10 +327,10 @@ header a:hover{
     box-shadow: -0.6em 0.6em 0.5em #F2F2F2;
 }
 .photo-activity:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .photo-activity:active{
-    transform: scale(1.2);   
+    transform: scale(1.1);   
 }
 .photo-activity h3{
     margin: 20px 15px;
