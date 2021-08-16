@@ -241,6 +241,7 @@ header a:hover{
     flex-direction: column;
     justify-content: space-between;
     box-sizing: border-box;
+    cursor: pointer;
 }
 #container-2{
     background-color: #fff;
@@ -295,7 +296,6 @@ header a:hover{
 }
 #display{
     margin: 20px 15px;
-    text-align: left;
     font-size: 1.2em;
 }
 
@@ -526,7 +526,7 @@ footer ul li a{
         border-radius: 25px;
     }
     #display{
-         margin: 15px 0;
+         margin: 15px;
     }
 
     /*ACTIVITY*/
