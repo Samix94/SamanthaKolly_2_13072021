@@ -110,8 +110,14 @@ header a:hover{
     border: 1px solid #0065FC;
     border-radius: 15px;
     cursor: pointer;
-
-}/*SEARCH-2*/
+}
+.search button:hover{
+    transform: scale(1.1);
+}
+.search button:active{
+    transform: scale(1.1);   
+}
+/*SEARCH-2*/
 .search-2 h2{
     margin-top: 20px;
 }
