@@ -241,7 +241,6 @@ header a:hover{
     flex-direction: column;
     justify-content: space-between;
     box-sizing: border-box;
-    cursor: pointer;
 }
 #container-2{
     background-color: #fff;
