@@ -149,6 +149,7 @@ header a:hover{
 /*SEARCH-3*/
 .search-3{
     margin-top: 15px;
+    margin-bottom: 25px;
     display: flex;
     flex-direction: row;
     align-items: baseline;
@@ -204,8 +205,9 @@ header a:hover{
     flex-direction: row;
     align-items: center;
     background-color: #fff;
-    padding: 0px;
+    padding: 4px;
     margin: 10px 0;
+    margin-left: 10px;
     text-decoration: none;
     color: #000;
     border-radius: 25px;
@@ -235,8 +237,9 @@ header a:hover{
 }
 #container-2{
     background-color: #fff;
-    padding-top: 15px;
+    padding-top: 20px;
     padding-bottom: 10px;
+    padding-right: 10px;
 }
 #container-2 h2{
     margin: 15px 0;
@@ -250,7 +253,8 @@ header a:hover{
 .photo-hebergements{
     width: 335px;
     height: 198px;
-    margin: 10px 0;
+    Margin: 10px 0;
+    margin-left: 2.7px;
     background-color: #fff;
     border-radius: 25px;
     border: 2px solid #F2F2F2;
@@ -277,7 +281,7 @@ header a:hover{
     margin: 8px 0;
 }
 #display{
-    margin: 20px 15px;
+    margin: 0px;
     font-size: 1.2em;
 }
 
@@ -298,6 +302,7 @@ header a:hover{
     width: 335px;
     height: 190px;
     margin: 10px 0;
+    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -406,6 +411,7 @@ footer ul li a{
 
     /*CONTAINER*/
     #popularity{
+        margin-left: 20px;
         border-radius: 25px;
     }
     #popularity-container{
