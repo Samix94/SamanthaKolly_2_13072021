@@ -238,7 +238,7 @@ header a:hover{
 #container-2{
     background-color: #fff;
     padding-top: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 60px;
     padding-right: 10px;
 }
 #container-2 h2{
@@ -281,7 +281,7 @@ header a:hover{
     margin: 8px 0;
 }
 #display{
-    margin: 0px;
+     margin: 20px 15px;
     font-size: 1.2em;
 }
 
@@ -506,7 +506,7 @@ footer ul li a{
         border-radius: 25px;
     }
     #display{
-        margin: 25px 50px;
+         margin: 15px 0;
     }
 
     /*ACTIVITY*/
