@@ -189,13 +189,6 @@ header a:hover{
     flex-direction: column;
     justify-content: flex-start;
 }
-#populary-container{
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-}
 .title{
     display: flex;
     flex-direction: row;
@@ -205,8 +198,15 @@ header a:hover{
 .title h2{
     font-size: 1.2em;
 }
+#populary-container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .photo{
-    width: 335px;
+    width: 325px;
     height: 144px;
     display: flex;
     flex-direction: row;
