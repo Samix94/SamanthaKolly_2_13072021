@@ -383,7 +383,7 @@ footer ul li a{
 }
 
 /*TAB AND LANDSCAPE*/
-@media screen and (min-width:530px) {
+@media screen and (min-width:768px) {
     header{
         flex-direction: row;
         justify-content: space-between;
@@ -443,6 +443,7 @@ footer ul li a{
     #popularity-container{
         display: flex;
         flex-flow: row wrap;
+        justify-content: space-around;
     }
 
     /*CONTAINER-2*/
@@ -488,7 +489,7 @@ footer ul li a{
 }
 
 /*PC*/
-@media screen and (min-width:1200px) {
+@media screen and (min-width:1253px) {
     header{
         margin: 4px 50px;
     }
